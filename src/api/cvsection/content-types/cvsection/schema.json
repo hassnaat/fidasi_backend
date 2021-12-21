@@ -1,0 +1,37 @@
+{
+  "kind": "singleType",
+  "collectionName": "cvsections",
+  "info": {
+    "singularName": "cvsection",
+    "pluralName": "cvsections",
+    "displayName": "cvsection",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "heading": {
+      "type": "string"
+    },
+    "subheading": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    },
+    "heading_mobile": {
+      "type": "string"
+    },
+    "subheading_mobile": {
+      "type": "string"
+    },
+    "description_mobile": {
+      "type": "text"
+    },
+    "subheading2_mobile": {
+      "type": "string"
+    }
+  }
+}
